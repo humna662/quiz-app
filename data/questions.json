@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "London"],
+    "answer": "Paris"
+  },
+  {
+    "id": "2",
+    "question": "Who wrote 'Hamlet'?",
+    "options": ["Mark Twain", "William Shakespeare", "Jane Austen", "Charles Dickens"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": "3",
+    "question": "What is the smallest planet in our solar system?",
+    "options": ["Earth", "Mars", "Mercury", "Venus"],
+    "answer": "Mercury"
+  },
+  {
+    "id": "4",
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "id": "5",
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Oxygen", "Osmium", "Ozone", "Oganesson"],
+    "answer": "Oxygen"
+  },
+  {
+    "id": "6",
+    "question": "In which year did the Titanic sink?",
+    "options": ["1912", "1899", "1923", "1905"],
+    "answer": "1912"
+  }
+]
